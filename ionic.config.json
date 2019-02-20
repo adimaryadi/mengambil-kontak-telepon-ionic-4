@@ -1,6 +1,8 @@
 {
   "name": "getkontak",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "e70b058b"
 }
